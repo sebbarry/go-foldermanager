@@ -1,9 +1,11 @@
 # A simple folder manager tool written in go.
 
-## This tool aims to simplify the folder renaming process. 
+## This tool allows a user to rename folders and all subsequent child directories. 
 
-1. Capitalize first letter.
-3. Lower Case entire name.
+Some folder renaming options are: 
+
+1. Capitalize first letter ex. Title.
+2. Lower Case entire name ex. title.
 
 ## Instructions: 
 
